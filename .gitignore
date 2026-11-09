@@ -1,0 +1,10 @@
+dist/
+build/
+*.zip
+*.pyd
+*.dll
+*.spec
+__pycache__/
+.venv/
+venv/
+.idea/
